@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "生而为人"
-date: 2016-05-13
+date: 2016-05-23
 excerpt: "既然是人，就不要不把自己当人看"
 tags: [碎念]
 comments: true
