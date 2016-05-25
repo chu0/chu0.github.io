@@ -4,7 +4,7 @@ title: "怎一个愁字了得"
 date: 2016-05-13
 excerpt: "愁啊愁，三千青丝已有白"
 tags: [杂谈, 碎念]
-comments: true
+comments: false
 ---
 
 ### 吟诗作对

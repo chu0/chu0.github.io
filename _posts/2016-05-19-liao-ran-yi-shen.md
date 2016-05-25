@@ -4,7 +4,7 @@ title: "乱花丛中过，片叶不沾身"
 date: 2016-05-19
 excerpt: "我自了然一身，之 科学上网，写作，通讯，打发时间"
 tags: [所谓, 工具]
-comments: true
+comments: false
 ---
 
 ### 科学上网工具
