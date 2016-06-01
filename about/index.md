@@ -5,7 +5,7 @@ tags: [about, me]
 date: 2016-04-24
 ---
     
-<center><a href="http://chu0.github.io"><b>chu 's nest</b></a> 只是我其中一个小窝罢了.</center>
+<center><a href="http://overthinking.me"><b>想太多</b></a> 么，我懒得去想.</center>
 
 #  ME
 
@@ -21,5 +21,5 @@ date: 2016-04-24
 
 #  MAIL
 
-## <center>chu.china # hotmail.com</center>
+## <center>Y2h1QG92ZXJ0aGlua2luZy5tZQ==</center>
 
