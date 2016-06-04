@@ -1,6 +1,6 @@
 ## My blog
 
-## theme [Moon](https://github.com/TaylanTatli/Moon)
+## Theme [Moon](https://github.com/TaylanTatli/Moon)
 
 ## Just to pass the time .
 
