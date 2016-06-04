@@ -5,7 +5,7 @@ tags: [about, me]
 date: 2016-04-24
 ---
     
-<center><a href="http://overthinking.me"><b>想太多</b></a> 么，我懒得去想.</center>
+<center><a href="http://overthinking.me"><b>overthinking </b></a>me , I'm too lazy to think about .</center>
 
 
 ![](http://7xpy22.com1.z0.glb.clouddn.com/overthinking.meunsplash.com.photo-1452716726610-30ed68426a6b.jpg)
@@ -14,11 +14,11 @@ date: 2016-04-24
 
 #  ME
 
-## <center>一个无所谓的人</center>
+## <center>Be indifferent</center>
 
-## <center>一个自大狂的人</center>
+## <center>Megalomaniac</center>
 
-## <center>一个很偏执的人</center>
+## <center>Paranoid</center>
 
 #  XMPP
 
