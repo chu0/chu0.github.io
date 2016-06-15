@@ -22,7 +22,7 @@ date: 2016-04-24
 
 #  XMPP
 
-## <center>chu5 # xmpp.jp</center>  
+## <center>ChuGiftedScholAr # jwchat.org</center>  
 
 #  MAIL
 
