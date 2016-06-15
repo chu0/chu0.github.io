@@ -1,6 +1,6 @@
 # Site
-title:              chu
-bio:                '<b>I just thought I thought .</b>'
+title:              楚才子
+bio:                '<b>心间纵有万千语，却做桥头染别离</b>'
 description:        " 一个人还是一个人咯. "
 reading_time:       true
 words_per_minute:   200
@@ -39,7 +39,7 @@ disqus_shortname:   chu0
 #email:
 twitter:            loserxc
 #facebook:           username
-github:             chu0
+#github:             chu0
 #stackoverflow:      123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:           username
 #xing:              username
@@ -54,7 +54,7 @@ instagram:          lose_you13
 #soundcloud:        username
 #weibo:             username
 #flickr:            username
-#codepen:           username
+codepen:            ChuGiftedScholAr
 
 # Gems
 gems:
