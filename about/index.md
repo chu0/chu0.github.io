@@ -3,6 +3,7 @@ layout: page
 title: Who am I ?
 tags: [about, me]
 date: 2016-04-24
+comments: false
 ---
     
 <center><a href="http://overthinking.me"><b>overthinking </b></a>me , I'm too lazy to think about .</center>
